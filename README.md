@@ -1,2 +1,2 @@
-# Projeto-com-responsividade2
+# Projeto-com-responsividade
  Projeto para aprender responsividade
